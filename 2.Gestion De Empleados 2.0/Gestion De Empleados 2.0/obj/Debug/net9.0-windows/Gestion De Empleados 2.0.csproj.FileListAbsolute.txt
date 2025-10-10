@@ -1,0 +1,80 @@
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.exe
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.deps.json
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\refint\Gestion De Empleados 2.0.dll
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\ref\Gestion De Empleados 2.0.dll
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.DatosEmpleados.resources
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.exe
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.deps.json
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.runtimeconfig.json
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.Properties.Resources.resources
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.DatosEmpleados.resources
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.GenerateResource.cache
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfoInputs.cache
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfo.cs
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.CoreCompileInputs.cache
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\refint\Gestion De Empleados 2.0.dll
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.genruntimeconfig.cache
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\ref\Gestion De Empleados 2.0.dll
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmDatosEmpleados.resources
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmCargos.resources
+C:\Users\SENAGOD\Desktop\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmFiltros.resources
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmFiltros.resources
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmCargos.resources
+C:\Users\USUARIO\Desktop\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmDatosEmpleados.resources
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.exe
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.deps.json
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.runtimeconfig.json
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.Properties.Resources.resources
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.DatosEmpleados.resources
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmCargos.resources
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmDatosEmpleados.resources
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmFiltros.resources
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.GenerateResource.cache
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfoInputs.cache
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfo.cs
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.CoreCompileInputs.cache
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\refint\Gestion De Empleados 2.0.dll
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.genruntimeconfig.cache
+C:\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\ref\Gestion De Empleados 2.0.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.exe
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.deps.json
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.runtimeconfig.json
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\bin\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.Properties.Resources.resources
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.DatosEmpleados.resources
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmCargos.resources
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.FrmDatosEmpleados.resources
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.GenerateResource.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfoInputs.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.AssemblyInfo.cs
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.csproj.CoreCompileInputs.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\refint\Gestion De Empleados 2.0.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.pdb
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion De Empleados 2.0.genruntimeconfig.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\ref\Gestion De Empleados 2.0.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\2.Gestion De Empleados 2.0\Gestion De Empleados 2.0\obj\Debug\net9.0-windows\Gestion_De_Empleados_2._0.Gestion_De_Empleados_2._0.FrmDatosEmpleados.resources

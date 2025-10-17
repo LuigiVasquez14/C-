@@ -1,0 +1,19 @@
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión_De_Estudiantes.Properties.Resources.resources
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión_De_Estudiantes.UI.EstudiantesUI.resources
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión_De_Estudiantes.UI.MainUI.resources
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.csproj.GenerateResource.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.AssemblyInfoInputs.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.AssemblyInfo.cs
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.csproj.CoreCompileInputs.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\bin\Debug\net9.0-windows\Gestión De Estudiantes.exe
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\bin\Debug\net9.0-windows\Gestión De Estudiantes.deps.json
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\bin\Debug\net9.0-windows\Gestión De Estudiantes.runtimeconfig.json
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\bin\Debug\net9.0-windows\Gestión De Estudiantes.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\bin\Debug\net9.0-windows\Gestión De Estudiantes.pdb
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\refint\Gestión De Estudiantes.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.pdb
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión De Estudiantes.genruntimeconfig.cache
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\ref\Gestión De Estudiantes.dll
+C:\C#\Proyectos de C#\4.Programacion Orientada a Objetos\Gestión De Estudiantes\Gestión De Estudiantes\obj\Debug\net9.0-windows\Gestión_De_Estudiantes.UI.ConsultasUI.resources
